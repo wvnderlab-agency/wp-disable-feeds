@@ -1,17 +1,18 @@
 <?php
 
 /*
- * Plugin Name:     Disable Feeds
+ * Plugin Name:     Wvnderlab - Disable Feeds
  * Plugin URI:      https://github.com/wvnderlab-agency/wp-disable-feeds/
+ * Description:     Disable feeds.
  * Author:          Wvnderlab Agency
  * Author URI:      https://wvnderlab.com
  * Text Domain:     wvnderlab-disable-feeds
- * Version:         0.1.0
+ * Version:         0.2.0
  */
 
 /*
  *  ################
- *  ##            ##    Copyright (c) 2025 Wvnderlab Agency
+ *  ##            ##    Copyright (c) 2026 Wvnderlab Agency
  *  ##
  *  ##   ##  ###  ##    ✉️ moin@wvnderlab.com
  *  ##    #### ####     🔗 https://wvnderlab.com
